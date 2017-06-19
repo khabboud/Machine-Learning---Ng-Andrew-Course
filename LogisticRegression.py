@@ -3,7 +3,7 @@
 Created on Wed Oct 12 09:17:11 2016
 
 @author: khabboud
-Implementing Logistic Regression: NG Andrea Course 
+Implementing Logistic Regression: NG Andrew Course 
 
 """
 import numpy as np

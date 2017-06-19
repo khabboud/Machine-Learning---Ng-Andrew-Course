@@ -3,7 +3,7 @@
 Created on Sun Oct 16 11:15:10 2016
 
 @author: khabboud
-Implementing Neural Network for Multiclass classification of numbers using oneVsAll Regularized Logistic Regression: NG Andrea Course 
+Multiclass classification of numbers using oneVsAll Regularized Logistic Regression: NG Andrea Course 
 
 """
 

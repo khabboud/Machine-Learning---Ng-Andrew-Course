@@ -3,7 +3,7 @@
 Created on Thu Jan 12 14:25:12 2017
 
 @author: khabboud
-Implementing neural networks classification algorithm
+Implementing neural networks classification algorithm  Ng Andrew Course 
 """
 import numpy as np
 import matplotlib.pyplot as plt

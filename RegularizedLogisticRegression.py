@@ -3,7 +3,7 @@
 Created on Thu Oct 13 10:03:30 2016
 
 @author: khabboud
-Implementing Regularized Logistic Regression: NG Andrea Course 
+Implementing Regularized Logistic Regression: NG Andrew Course 
 
 """
 

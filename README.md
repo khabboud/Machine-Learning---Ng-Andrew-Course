@@ -3,3 +3,4 @@ These codes are based on Andrew Ng's Machine learning course on Coursera:
 The repository includes:
 * [Simple linear regression](/simpleLR.py) covers both one-dimensional linear regression and multivariate linear regression
 
+* [Regularized linear regression with cross validation](/RegularizedLinearRegression.py)
